@@ -1,0 +1,6 @@
+syntax: glob
+build/
+lib/AMC_Play/
+lib/hibernate-persistence/
+nbproject/private/
+nbproject/genfiles.properties
